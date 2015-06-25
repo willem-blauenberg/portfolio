@@ -33,6 +33,7 @@ h3, h4, h5, p, li {
   	background-repeat: no-repeat;
   	text-align: center;
   	color: white;
+  	border-bottom: 15px solid #0b1b32;
 }
 .header h1,
 .header h3 {
@@ -130,4 +131,35 @@ h3, h4, h5, p, li {
 	color: red;
 }*/
 
+/*/////////FOOTER/////////*/
 
+.footer {
+	height: 230px;
+	max-width: 100%;
+	background-color:  #0b1b32;
+	color: white;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.footerul {
+	display: flex;
+	justify-content: center;
+}
+
+.footerul li {
+	margin: 0 5% 20px 5%;
+}
+
+.footerul li:first-child {
+	margin-left: -25px;
+}
+
+.footer h5 {
+	font-size: 1rem;
+	letter-spacing: 0.3rem;
+}
+
+.footerul img {
+	width: 40px;
+}
