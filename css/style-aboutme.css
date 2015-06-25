@@ -1,0 +1,112 @@
+
+.header2 {
+	background: url('../img/edin1.jpg');
+	max-width: 100%;
+	/*width: 500px;*/
+	height: 600px;
+	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	text-align: center;
+  	color: white;
+  	border-bottom: 15px solid #0b1b32;
+}
+.header2 h1,
+.header2 h3 {
+	margin-top: 0;
+}
+
+.header2 h1 {
+	font-size: 3rem;
+	padding-top: 430px;
+}
+
+.header2 h3 {
+	font-size: 1.3rem;
+	padding-top: 30px;
+}
+
+/*/////////MAINSECTION/////////*/
+
+.mainsection2 {
+	height: 600px;
+	text-align: justify;
+	margin-bottom: 760px;
+	margin-right: 35px;
+	margin-left: 35px;
+
+}
+
+.mainsection2 h4 {
+	font-size: 3rem;
+	margin-top: 150px;
+	text-align: right;
+}
+
+.mainsection2 h4 p {
+	background: #92B200;
+	display: inline;
+	padding-left: 15px;
+	margin-left: 10px;
+}
+
+.mainsection2 div {
+	font-size: 1.3rem;
+}
+
+.back {
+	font-size: 1.5rem;
+	margin-top: 60px;
+	text-align: center;
+}
+
+.back a {
+	font-size: 1.5rem;
+}
+
+/*.back:hover {
+	color: #0b1b32;
+	font-weight: 900;
+	cursor: pointer;
+	transition-property: color;
+	transition-duration: 2s;
+}*/
+
+.back:hover a {
+	color: #0b1b32;
+	font-weight: 900;
+	cursor: pointer;
+	/*transition-property: color;
+	transition-duration: 2s;*/
+}
+
+.footer {
+	margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

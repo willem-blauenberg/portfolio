@@ -21,6 +21,11 @@ h3, h4, h5, p, li {
 	font-family: 'Josefin Sans';
 }
 
+body a {
+	text-decoration: none;
+	color: inherit;
+}
+
 /*/////////HEADER/////////*/
 
 .header {
@@ -162,4 +167,8 @@ h3, h4, h5, p, li {
 
 .footerul img {
 	width: 40px;
+}
+
+.footerul img:hover {
+	cursor: pointer;
 }
