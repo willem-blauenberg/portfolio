@@ -1,0 +1,136 @@
+body {
+	background-color: #aa9492;
+}
+
+.header3 {
+	background: url('../img/port.jpg');
+	max-width: 100%;
+	/*width: 500px;*/
+	height: 600px;
+	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	text-align: center;
+  	color: white;
+  	border-bottom: 15px solid #575651;
+}
+.header3 h1,
+.header3 h3 {
+	margin-top: 0;
+}
+
+.header3 h1 {
+	font-size: 3rem;
+	padding-top: 430px;
+}
+
+.header3 h3 {
+	font-size: 1.3rem;
+	padding-top: 30px;
+}
+
+.mainsection3 {
+	height: 600px;
+	text-align: justify;
+	margin-bottom: 550px;
+	margin-right: 35px;
+	margin-left: 35px;
+
+
+}
+
+.mainsection3 h4 {
+	font-size: 3rem;
+	margin-top: 150px;
+	margin-bottom: 20px;
+	text-align: right;
+	text-shadow: 2px 2px 5px black;
+}
+
+.mainsection3 h4 p {
+	background: #92B200;
+	display: inline;
+	padding-left: 15px;
+	margin-left: 10px;
+}
+
+.mainsection3 div {
+	font-size: 1.3rem;
+
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	float: none;
+	padding-bottom: 50px;
+}
+
+.wrapper .show {
+	margin-bottom: 90px;
+}
+
+.show {
+	width: 320px;
+	height: 240px;
+	background-color: ;
+	margin-bottom: 45px;
+	margin-left: 8%;
+	justify-content: center;
+	text-align: center;
+}
+
+.showimg {
+	max-width: 320px;
+	max-height: 200px;
+	border: 4px solid #372014;
+	box-shadow: 8px 8px 5px #372014;
+}
+
+.show h5 {
+	font-size: 1.2rem;
+}
+
+.breadcrumb li {
+    display: inline;
+}
+.breadcrumb li+li:before {
+    content:"» ";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+	background-color: #575651;
+}

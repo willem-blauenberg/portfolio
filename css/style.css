@@ -172,3 +172,10 @@ body a {
 .footerul img:hover {
 	cursor: pointer;
 }
+
+.breadcrumb li {
+    display: inline;
+}
+.breadcrumb li+li:before {
+    content:"» ";
+}
